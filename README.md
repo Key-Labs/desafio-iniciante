@@ -2,6 +2,7 @@
 ============================
 
 ## Sobre
+
 Será necessário criar uma API Node Js e expor algumas rotas. Antes de começar a fazer o desafio, sugerimos a leitura dos seguintes artigos: 
  
 * https://medium.com/@gaunteweb/o-que-%C3%A9-uma-api-f0a7dab8084f
@@ -24,3 +25,13 @@ Será necessário criar uma API Node Js e expor algumas rotas. Antes de começar
   
   Retorno:
   "Obrigado 'NomeQueFoiEnviado', estamos avaliando seu teste"
+
+## Tempo 
+
+Quando finalizar o desafio, por favor mande um .zip do seu projeto para o email "agnaldo@keylabs.com.br"
+Em média os desenvolvedores gastam de 2 a 4 dias para fazer esse teste, caso precise de mais dias, por favor nos envise.
+
+
+## Diferencial 
+
+Colocar sua aplicação no git hub e nos enviar o link do repositório
